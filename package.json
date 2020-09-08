@@ -1,0 +1,23 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmconnor3/tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmconnor3/tester/issues"
+  },
+  "homepage": "https://github.com/jmconnor3/tester#readme",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "opspark": "^3.1.0"
+  }
+}
